@@ -1,4 +1,4 @@
-WWCSD
+GoLang Tuts
 =====
 
-Wayne Westland Scripting
+Training for GoLang
